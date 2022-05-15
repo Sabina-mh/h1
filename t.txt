@@ -1,0 +1,11 @@
+a=8 b= 2 a+b=,10
+a=4 b= 2 a+b=,6
+a=8 b= 0 a+b=,8
+a=8 b= 2 a/b=,4.0
+a=8 b= 2 a//b=,4
+a=8 b= 2 a*b=,16
+a=8 b= 2 a%b=,0
+a=15 b= 2 a>b=,true
+a=12 b= -1 a+b=,11
+a="hello" len(a)=,5
+a="hello" a[:2]=,he
